@@ -1,0 +1,301 @@
+object_id,object_type,,,,name,title,has external resources
+eri,group,,,,eri,Eritrea,
+afg,group,,,,afg,Afghanistan,
+bfa,group,,,,bfa,Burkina Faso,
+cod,group,,,,cod,Democratic Republic of the Congo,
+hti,group,,,,hti,Haiti,
+mmr,group,,,,mmr,Myanmar,
+pse,group,,,,pse,State of Palestine,
+som,group,,,,som,Somalia,
+ssd,group,,,,ssd,South Sudan,
+sdn,group,,,,sdn,Sudan,
+ukr,group,,,,ukr,Ukraine,
+yem,group,,,,yem,Yemen,
+3f077dff-1d05-484d-a7c2-4cb620f22689,organization,,,,worldpop,WorldPop,
+225b9f7d-e7cb-4156-96a6-44c9c58d31e3,organization,,,,hot,Humanitarian OpenStreetMap Team (HOT),
+b3a25ac4-ac05-4991-923c-d25f47bef1ec,organization,,,,ocha-fiss,OCHA Field Information Services Section (FISS),
+8be95204-f453-4b66-a4f6-dbe84cb0bdee,organization,,,,geoboundaries,geoBoundaries,
+ed366c60-6fc7-43b5-afca-288075bcc4d2,organization,,,,ocha-roap,OCHA Regional Office for Asia and the Pacific (ROAP),
+37a0c6e3-3bcd-4457-aa81-6ddeb99dd203,organization,,,,ocha-rosea,OCHA Regional Office for Southern and Eastern Africa (ROSEA),
+905a9a49-5325-4a31-a9d7-147a60a8387c,organization,,,,world-bank-group,World Bank Group,
+74ad0574-923d-430b-8d52-ad80256c4461,organization,,,,meta,AI and Data for Good at Meta,
+c021f6be-3598-418e-8f7f-c7a799194dba,organization,,,,world-health-organization,World Health Organization,
+3ecac442-7fed-448d-8f78-b385ef6f84e7,organization,wfp,,,wfp,WFP - World Food Programme,
+e64a08b2-37ed-4224-a4fe-26fb9128d6b1,crisis,opt,,,opt-israel-hostilities,occupied Palestinian territory-Israel Hostilities,
+bf6858bf-a5a8-403b-8380-f78cd72c9fee,dataset,PROD,,,cod-ps-vnm,Viet Nam - Subnational Population Statistics,no
+db0b4fb1-ce11-458e-94e0-3342365a117a,dataset,PROD,,,wfp-food-prices-for-lebanon,Lebanon - Food Prices,no
+61cccca7-b589-4073-8dae-bbceeb542bd8,dataset,PROD,,,state-of-palestine-price-of-basic-commodities-in-gaza,State of Palestine: Prices of basic commodities in Gaza,no
+32d0365c-d513-4721-8d66-1b19b12c4b08,dataset,PROD,,,global-iom-dtm-from-api,Global IOM Displacement Tracking Matrix (DTM) from API,no
+0d36e8ad-d2e8-4646-babd-61a41f99159a,dataset,PROD,,,ukraine-idp-estimates,Ukraine Displacement Data: IDP Estimates  [IOM DTM],no
+62cc626a-39c4-431d-964b-7a5600a4684b,dataset,PROD,,,yemen-displacement-daily-tracking-idps-returnees-iom-dtm,"Yemen Displacement - Daily Tracking - [IDPs, Returnees] - [IOM DTM]",no
+44594ae2-dde9-417f-acae-523bc012c162,dataset,PROD,,,sudan-displacement-situation-countrywide-idps-iom-dtm,Sudan: Displacement Situation - IDPs [IOM DTM],no
+7bfbbfb3-fd01-462f-9682-6279cebc3cc3,dataset,PROD,,,population-displacement-and-return-movements-in-northern-syria,Northern Syria Population Tracking,no
+32167ba5-ef67-4254-8eaf-04cdb8b90c1d,dataset,PROD,,,movement-distribution,Movement Distribution,no
+74163686-a029-4e27-8fbf-c5bfcd13f953,dataset,PROD,,,emdat-country-profiles,EM-DAT - Country Profiles,no
+0e06dbe6-8eeb-4b26-ba12-652520b44177,dataset,PROD,,,state-of-palestine-consumer-price-index,State of Palestine - Consumer Price Index,no
+7e1c22a8-e238-4139-a23f-9e058ba4554e,dataset,PROD,,,state-of-palestine-health-sector,State of Palestine: Health Sector Indicators,no
+7117aece-abc5-47b8-b5a1-6308db53e7f8,dataset,PROD,,,reliefweb-disasters-list,ReliefWeb Disasters List,no
+e6320d49-1944-4c80-ad9c-ab83e4239267,dataset,PROD,,,unhcr-situations,UNHCR Situations: Monthly Refugees and Asylum Seekers,no
+464950af-0d57-47ae-a1fa-b4413b0adaf7,dataset,PROD,,,hdx-signals,HDX Signals,no
+6e7aa2e4-9cee-48b9-b1aa-d6f7a902e719,dataset,PROD,,,afghanistan-flow-monitoring-counting-data-iom-dtm,"Afghanistan - Flow Monitoring Counting (Since January 10, 2024 To August 02, 2025)",no
+fc59785a-31d2-4018-aac7-6b9f619ae8ec,dataset,PROD,,,missing-migrants-project-data,Missing Migrants Project Data,no
+1e3cc314-3b11-4ab2-bad2-6555de58b5b6,dataset,PROD,,,ambulance-operations-in-northwest-syria-jan,Northwest Syria: Ambulance Operations,no
+3fdd72f1-3edf-43f5-b101-90a11c99a12f,dataset,PROD,,,search-and-rescue-operations-in-northwest-syria,Northwest Syria: Search and Rescue Operations,no
+427a4d70-f699-4ced-83c4-f4a4c5eaac33,dataset,PROD,,,women-and-family-healthcare-services-in-northwest-syria,Northwest Syria: Women and Family Healthcare Services,no
+0a23ef20-8307-4891-a00f-e38ad9bd523d,dataset,PROD,,,idp-camps-monitoring-november-of-2018,The Syrian IDP Camps Monitoring Study - Northern Syria Camps,no
+0446a0dc-fad2-4756-9e76-cf8a22392628,dataset,PROD,,,mpi-in-syria,Syrian Arab Republic - Market Price Index,no
+5c334c3d-3b40-4819-ae8d-450f7e5fc104,dataset,PROD,,,cccm-somalia-idp-site-master-list-q2-2024,Somalia CCCM IDP Site Master List,no
+823ab728-bccf-4ae1-adee-a0038c24b7dd,dataset,PROD,,,inform-global-crisis-severity-index,INFORM Severity Index,no
+8b4abbc2-a705-4eb7-8909-bdc7d9ed20ce,dataset,PROD,,,colombia-emergencias-por-desastres-naturales,Colombia: Emergencias por Desastres Naturales,no
+06bb725c-35a2-4ad5-94cf-4772c00b8c77,dataset,PROD,,,afghan-refugee-return-2024,Afghanistan:  Returning Refugees,no
+6e2f67e6-f9af-4e99-b548-80202a0aa5a2,dataset,PROD,,,drc-displacement-deplace-site-assessment-ocha,Democratic Republic of the Congo: Displacement - [Déplacé] - Site Assessment,no
+7fda9aa0-1f69-49a1-a3de-953e016dceb4,dataset,PROD,,,cameroon-5w-operational-presence,Cameroon: Operational Presence,no
+7a34e724-1f33-4928-8058-762a1e9ba9b6,dataset,PROD,,,mozambique-operational-presence,Mozambique: Operational Presence,no
+45fceb73-64f9-44ad-8ce3-bc80c14c2897,dataset,PROD,,,nigeria-3w,Nigeria: Operational Presence,no
+98acc6f5-2836-462e-aebf-b7673d895150,dataset,PROD,,,syrian-arab-republic-who-does-what-where-3w,Syrian Arab Republic: Operational Presence,no
+3a4d0513-9aeb-4177-9f6d-448c7e740463,dataset,PROD,,,yemen-monthly-organizations-presence-3w,"Yemen: Who Does What, Where (3W/4W)",no
+99f4e6aa-4291-4590-80b1-51887c33fda9,dataset,PROD,,,venezuela-who-does-what-and-where-3w,"Venezuela: Who Does What, Where (3W/5W)",no
+249ee04b-1888-4c99-84eb-07c3d5e06752,dataset,PROD,,,fts-requirements-and-funding-data-for-aruba,Aruba - Requirements and Funding Data,no
+2e63edff-037b-4c8b-a893-c7cc39918bb4,dataset,PROD,,,fts-requirements-and-funding-data-for-curacao,Curaçao - Requirements and Funding Data,no
+dbfd14c4-0ef3-44fc-be1f-d9d2d7b4a0d6,dataset,PROD,,,cod-ps-bmu,Bermuda - Subnational Population Statistics,no
+c49d7959-1c24-4ef6-a975-12428461f292,dataset,PROD,,,afghanistan-acute-food-insecurity-country-data,Afghanistan: Acute Food Insecurity Country Data,no
+b57c8667-6403-4af4-9465-5a9f013ae8fc,dataset,PROD,,,angola-acute-food-insecurity-country-data,Angola: Acute Food Insecurity Country Data,no
+761fcec5-c05c-4c4f-ac83-989803836068,dataset,PROD,,,burundi-acute-food-insecurity-country-data,Burundi: Acute Food Insecurity Country Data,no
+33c3a64a-6ff8-4247-98fc-2da472271d05,dataset,PROD,,,el-salvador-acute-food-insecurity-country-data,El Salvador: Acute Food Insecurity Country Data,no
+4e035f60-be39-4c6d-bd60-5502082e3be9,dataset,PROD,,,ethiopia-acute-food-insecurity-country-data,Ethiopia: Acute Food Insecurity Country Data,no
+34c2fa3d-2eed-45bb-8e45-9b1a1801f351,dataset,PROD,,,guatemala-acute-food-insecurity-country-data,Guatemala: Acute Food Insecurity Country Data,no
+41d20a32-ed74-4d67-87fa-1ea249b9ac23,dataset,PROD,,,honduras-acute-food-insecurity-country-data,Honduras: Acute Food Insecurity Country Data,no
+f12e4f52-a55f-4f77-8dec-1b60d03fcca8,dataset,PROD,,,kenya-acute-food-insecurity-country-data,Kenya: Acute Food Insecurity Country Data,no
+1cdf5b2e-9da1-48b1-925c-5ed3628806b5,dataset,PROD,,,lesotho-acute-food-insecurity-country-data,Lesotho: Acute Food Insecurity Country Data,no
+42562e26-c618-4b63-abbe-5e6261e2a112,dataset,PROD,,,madagascar-acute-food-insecurity-country-data,Madagascar: Acute Food Insecurity Country Data,no
+2a22e894-04e6-4831-b726-2b6e596df2af,dataset,PROD,,,malawi-acute-food-insecurity-country-data,Malawi: Acute Food Insecurity Country Data,no
+d45f8e61-6053-4c1e-9813-9c1df745f499,dataset,PROD,,,namibia-acute-food-insecurity-country-data,Namibia: Acute Food Insecurity Country Data,no
+fff6a42e-e562-4b2a-937e-33e7deb02730,dataset,PROD,,,pakistan-acute-food-insecurity-country-data,Pakistan: Acute Food Insecurity Country Data,no
+d21ca2c3-6675-4463-bcb1-ff713c60fcb0,dataset,PROD,,,sudan-acute-food-insecurity-country-data,Sudan: Acute Food Insecurity Country Data,no
+eab07f34-57a9-4c46-9876-ed00825cb217,dataset,PROD,,,united-republic-of-tanzania-acute-food-insecurity-country-data,United Republic of Tanzania: Acute Food Insecurity Country Data,no
+7c530c85-7478-49a3-a60c-e3af9427cb01,dataset,PROD,,,uganda-acute-food-insecurity-country-data,Uganda: Acute Food Insecurity Country Data,no
+87ddf300-4686-4fb1-ae02-efb9c2a92ad5,dataset,PROD,,,zimbabwe-acute-food-insecurity-country-data,Zimbabwe: Acute Food Insecurity Country Data,no
+49fbd08a-2b4f-4fc6-af3c-eb94e2c642a5,dataset,PROD,,,djibouti-acute-food-insecurity-country-data,Djibouti: Acute Food Insecurity Country Data,no
+1d11c733-acd9-4183-9d97-d5f2e8570f99,dataset,PROD,,,south-africa-acute-food-insecurity-country-data,South Africa: Acute Food Insecurity Country Data,no
+f576c7d6-ac24-48d4-bb52-e7ce791080a9,dataset,PROD,,,internally-displaced-persons-natural-disaster,Democratic Republic of the Congo: Natural disaster Impact,no
+3e230b3f-e0d7-4c7d-a788-0d4c82d8f814,dataset,PROD,,,republique-centrafricaine-situation-des-inondations,République Centrafricaine : Situation des Inondations,no
+ee8f4b48-cef5-4e71-a398-b9d525d7bf00,dataset,PROD,,,dominican-republic-acute-food-insecurity-country-data,Dominican Republic: Acute Food Insecurity Country Data,no
+5e3a8ae5-52a4-408c-929f-689f09f5076e,dataset,PROD,,,lebanon-acute-food-insecurity-country-data,Lebanon: Acute Food Insecurity Country Data,no
+8b4abbc2-a705-4eb7-8909-bdc7d9ed20ce,dataset,PROD,,,colombia-emergencias-por-desastres-naturales,Colombia: Emergencias por Desastres Naturales,no
+251bc56c-f558-4030-9082-f6105561dee9,dataset,PROD,,,benin-acute-food-insecurity-country-data,Benin: Acute Food Insecurity Country Data,no
+17bcb527-9b05-48e8-b4cf-e25180f13e8c,dataset,PROD,,,burkina-faso-acute-food-insecurity-country-data,Burkina Faso: Acute Food Insecurity Country Data,no
+e47d86cd-d0ec-4cae-9d93-9385b9175478,dataset,PROD,,,cote-d-ivoire-acute-food-insecurity-country-data,Côte d'Ivoire: Acute Food Insecurity Country Data,no
+ce092792-dedc-41db-82ca-94fb64a04825,dataset,PROD,,,cameroon-acute-food-insecurity-country-data,Cameroon: Acute Food Insecurity Country Data,no
+b4f5c7ba-3731-4e34-a62b-55fb62d4c887,dataset,PROD,,,cabo-verde-acute-food-insecurity-country-data,Cabo Verde: Acute Food Insecurity Country Data,no
+0563dca3-c82b-44d0-b61c-bfc79e91d47a,dataset,PROD,,,ghana-acute-food-insecurity-country-data,Ghana: Acute Food Insecurity Country Data,no
+212fa0ab-bcae-4285-886c-7ce64786e025,dataset,PROD,,,guinea-acute-food-insecurity-country-data,Guinea: Acute Food Insecurity Country Data,no
+62395cf0-950c-4d73-b61a-d41b3eeb2738,dataset,PROD,,,gambia-acute-food-insecurity-country-data,Gambia: Acute Food Insecurity Country Data,no
+3f6ee45d-fdb2-4705-9e56-6ca143c2c33a,dataset,PROD,,,guinea-bissau-acute-food-insecurity-country-data,Guinea-Bissau: Acute Food Insecurity Country Data,no
+cc327626-72bb-4221-a916-baa0a674fc55,dataset,PROD,,,liberia-acute-food-insecurity-country-data,Liberia: Acute Food Insecurity Country Data,no
+38958cd5-c20a-4f80-be2f-8cad061f04e9,dataset,PROD,,,mali-acute-food-insecurity-country-data,Mali: Acute Food Insecurity Country Data,no
+c7ea0241-4f73-4ea6-bb43-9b14b78b6bba,dataset,PROD,,,mauritania-acute-food-insecurity-country-data,Mauritania: Acute Food Insecurity Country Data,no
+4ab684d9-0b2b-4938-b384-468e2485f70f,dataset,PROD,,,niger-acute-food-insecurity-country-data,Niger: Acute Food Insecurity Country Data,no
+c3d8899b-11d9-4946-8987-89fe2b2b7c15,dataset,PROD,,,nigeria-acute-food-insecurity-country-data,Nigeria: Acute Food Insecurity Country Data,no
+5aef5b57-36d5-408e-b095-20aed6736ee1,dataset,PROD,,,senegal-acute-food-insecurity-country-data,Senegal: Acute Food Insecurity Country Data,no
+71797def-82f5-4664-89d4-68293167d5d4,dataset,PROD,,,sierra-leone-acute-food-insecurity-country-data,Sierra Leone: Acute Food Insecurity Country Data,no
+e7315ba9-c0c0-46c5-972f-6ab41201ebc1,dataset,PROD,,,chad-acute-food-insecurity-country-data,Chad: Acute Food Insecurity Country Data,no
+18a62cd8-2735-475d-add4-6a427618d4b2,dataset,PROD,,,togo-acute-food-insecurity-country-data,Togo: Acute Food Insecurity Country Data,no
+9bc4d8bc-0de4-40e4-94c5-a9a6fa3ecf54,dataset,PROD,,,timor-leste-acute-food-insecurity-country-data,Timor-Leste: Acute Food Insecurity Country Data,no
+29677a2d-1fb2-48a3-a06a-9c66800c418b,dataset,PROD,,,wpdx_nga,Water Point Data Exchange (NGA),no
+2155674c-a237-400d-af2d-9a5529abb92c,dataset,PROD,,,wpdx_bgd,Water Point Data Exchange (BGD),no
+3960e24c-fe2a-430a-b70c-ee72c38dd88c,dataset,PROD,,,wpdx_zwe,Water Point Data Exchange (ZWE),no
+4c5e7cd0-3d28-4827-888c-e58e80b2eb47,dataset,PROD,,,wpdx_mwi,Water Point Data Exchange (MWI),no
+daae5188-d065-4bac-90af-a90bb16b7d7c,dataset,PROD,,,wpdx_sle,Water Point Data Exchange (SLE),no
+6fe1a228-bcf6-4e69-8f0e-a9b869f6f32d,dataset,PROD,,,wpdx_gtm,Water Point Data Exchange (GTM),no
+c8cef888-53dd-48dc-ad51-ef30428b0f44,dataset,PROD,,,wpdx_lbr,Water Point Data Exchange (LBR),no
+35a11b99-3b89-462e-b62c-89aac6142198,dataset,PROD,,,wpdx_gha,Water Point Data Exchange (GHA),no
+9f5813fb-eb5b-4bdb-ae0a-f48cdb55117e,dataset,PROD,,,wpdx_zmb,Water Point Data Exchange (ZMB),no
+6577e7d0-6e2a-4bba-87fa-4e8989118597,dataset,PROD,,,wpdx_swz,Water Point Data Exchange (SWZ),no
+dd154b0d-8d0e-421e-8254-e37e38348167,dataset,PROD,,,wpdx_tza,Water Point Data Exchange (TZA),no
+be496f2a-db8e-44eb-bd96-851e69771c63,dataset,PROD,,,wpdx_rwa,Water Point Data Exchange (RWA),no
+b5744fa0-9312-417f-bcaf-9c75bac95933,dataset,PROD,,,wpdx_ken,Water Point Data Exchange (KEN),no
+cf0b9e6f-7b2c-461c-b629-02add54b480b,dataset,PROD,,,wpdx_ssd,Water Point Data Exchange (SSD),no
+c7c8d215-67cf-487b-8913-681f33fc193b,dataset,PROD,,,wpdx_hti,Water Point Data Exchange (HTI),no
+da8746b6-5149-4a67-b5f9-4511dfd6a7ed,dataset,PROD,,,wpdx_eth,Water Point Data Exchange (ETH),no
+efd21fab-2b22-4328-a30d-ee6ac3a09795,dataset,PROD,,,wpdx_uga,Water Point Data Exchange (UGA),no
+84e7bec3-38c1-474d-84e1-eabbbc380f22,dataset,PROD,,,wpdx_caf,Water Point Data Exchange (CAF),no
+c3d8187a-e3fc-43b9-b684-facb881486e0,dataset,PROD,,,ethiopia-humanitarian-access,Ethiopia - Humanitarian Access,no
+9efbf0c2-4d12-4a6b-b71d-76ca0cee3347,dataset,PROD,,,idmc-event-data-for-reu,Réunion - Internal Displacements Updates (IDU) (event data),no
+36f57b1a-766d-4f92-b22c-ece0934b5e89,dataset,PROD,,,idmc-event-data-for-uzb,Uzbekistan - Internal Displacements Updates (IDU) (event data),no
+e1e7e91f-3810-4e6e-a32c-ff881a4b71af,dataset,PROD,,,dppa-pbfpriorities,Peace and Security Pillar: Peacebuilding Fund - PBF Priorities,no
+afa52c88-3a94-4645-8261-a882d88498b0,dataset,PROD,,,dppa-pbfsdgtargets,Peace and Security Pillar: Peacebuilding Fund - SDG Targets,no
+c8dee8c7-76fe-445d-9ee3-14f278206996,dataset,PROD,,,dppa-pbpriorities,Peace and Security Pillar: Peacebuilding Fund - PB Priorities,no
+29db8e66-f111-47c7-9ef2-3501aef906a4,dataset,PROD,,,dppa-scelectedpresidents,Peace and Security Pillar: Security Council Data - Elected Member Security Council Presidency,no
+160321f6-1630-4422-b06b-780333b103f1,dataset,PROD,,,dppadpo-glwomenleadership,Peace and Security Pillar: Great Lakes Region Women in Elective Or Leadership Positions,no
+7bdb1096-0055-4cb1-b8fd-62e0af8ed75b,dataset,PROD,,,unsom-sgrhumanrights,"Peace and Security Pillar: Human Rights Situation in Somalia, Data From Secretary General Reports",no
+a4be44d9-18ab-494b-8a29-cdd2474b9436,dataset,PROD,,,unsom-sgrsecuritysituation,"Peace and Security Pillar: Security Situation in Somalia, Data From Secretary General Reports",no
+b45a33b2-927e-47cc-b8bf-38ccc7a4e34c,dataset,PROD,,,unsom-sgrunpresence,"Peace and Security Pillar: UN Presence in Somalia, Data From Secretary General Reports",no
+e92bcc7e-2f5f-4319-a054-fea70dc6d5d8,dataset,PROD,,,the-red-sea-suez-canal-traffic,Red Sea crisis: Suez Canal traffic impacts,no
+02b6e3a2-fb0b-4fea-8a0c-b60cd89b6304,dataset,PROD,,,tajikistan-mobility-migrants-baseline-assessment-iom-dtm,Tajikistan Data - Baseline Assessment [IOM DTM],no
+43b7c86b-8f74-4422-840d-17f30ef3fd2f,dataset,PROD,,,asap-hotspots-monthly,Anomaly Hotspots of Agricultural Production,no
+5b580664-365e-4d7e-b5e5-2990df8f12a5,dataset,PROD,,,project-cchain,"Philippines - Open, validated health, climate, environment and socioeconomic data",no
+11d7af93-7bcd-4259-895e-838049011def,dataset,PROD,,,dpo-pkpledge,Peace and Security Pillar: Peacekeeping Ministerial Pledge Implementation Tracker,no
+67259d7e-1554-4ffd-be8d-97244577546a,dataset,PROD,,,global-market-monitor,WFP Global Market Monitor,no
+280327e3-b825-4506-8c96-178595afbcdf,dataset,PROD,,,cps-arrias,"Peace and Security Pillar: Security Council Data - Arria-Formula Meetings On Climate, Peace and Security",no
+2d11e352-b4ca-4606-9e2d-4bbd89291ce3,dataset,PROD,,,cps-meetings,"Peace and Security Pillar: Security Council Data - Formal Meetings of the Security Council On Climate, Peace and Security",no
+335743dd-f27f-4382-9586-c5bfdf281aa0,dataset,PROD,,,grid3-cod-settlement-extents-v3-1,GRID3 COD - Settlement Extents v3.1,no
+3af9c938-7ceb-4902-93a2-e6267c7307af,dataset,PROD,,,datos-de-precios-ipc-inflacion-y-abastecimiento-en-colombia-2023,"Colombia - IPC, Inflación y Abastecimiento",no
+5501ca60-ece4-4dd1-8063-aadcf9895377,dataset,PROD,,,colombia-precipitaciones-y-eventos-de-inundaciones-1990-2020,Colombia - Precipitaciones y Eventos de Inundaciones - 1990 - 2020,no
+53ab340c-902d-48cf-a278-bdcaa593a211,dataset,PROD,,,colombia-tasas-de-fecundidad-especifica-10-14-y-15-19-anos-municipal-2015-2024,Colombia - Tasas de fecundidad específica 10-14 y 15-19 años municipal 2015-2024,no
+5c1e10e1-ae1b-490f-aa9f-507f621d807d,dataset,PROD,,,indice-dptal-y-mncpal-en-salud-en-el-contexto-del-fenomeno-de-la-nina-en-colombia-2024-ii,Colombia: Índice Dptal y Mncpal en Salud en el Contexto del Fenómeno de La Niña (2024-II),no
+d53c6d79-9ce4-4503-9287-a3385f45509a,dataset,PROD,,,rwanda-mpox-subnational-cases-2024,Rwanda - Mpox Subnational Cases,no
+147a6aeb-0c25-4e3d-a4d0-9cc83621db1f,dataset,PROD,,,south-africa-mpox-subnational-cases-2024,South Africa - Mpox - Subnational cases : 2024,no
+59431e4f-a5d7-4ed1-bfe2-96295d1a581e,dataset,PROD,,,kazakhstan-data-baseline-assessment-iom-dtm,Kazakhstan Data - Baseline Mobility Assessment [IOM DTM],no
+b32b1739-ba36-4cc6-9c62-93b0d4a89846,dataset,PROD,,,benin-displacement-idps-mobility-tracking-iom-dtm,Benin Displacement - [IDPs] - Mobility Tracking [IOM DTM],no
+6daa36c4-9ea3-4844-958b-042d2cc3d8b7,dataset,PROD,,,indonesia-subnational-population-and-housing-data-tables,Indonesia Subnational Population and Housing Data Tables,no
+eefd0daa-9fce-40cf-bc57-a8c6c8cadf6e,dataset,PROD,,,sudan-administrive-boundaries-1,Sudan - Administrative Boundaries,no
+d71e61dd-4aab-4182-b0fc-87f41e9c2c4d,dataset,PROD,,,sudan-administrative-boundaries-2,Sudan - Administrative Boundaries,no
+646e7eb1-49f2-4684-852c-84507aa2c549,dataset,PROD,,,winter-needs-in-northwest-syria-camps-2024,Winter Needs in Northwest Syria Camps,no
+76d1790e-1303-4284-a245-e9093419e357,dataset,PROD,,,peacekeeping-uniformed-contributions-by-gender,Peace and Security Pillar: Historical Uniformed Personnel Contribution,no
+a246cbac-42d5-47b2-ba75-ac66f69e83de,dataset,PROD,,,wfp-food-prices-for-afghanistan,Afghanistan - Food Prices,no
+605f01e2-32a3-4d94-a718-0c79c4c613ff,dataset,PROD,,,wfp-food-prices-for-armenia,Armenia - Food Prices,no
+c76eabb7-fdb5-43b7-a5c4-09091bb8acde,dataset,PROD,,,wfp-food-prices-for-bangladesh,Bangladesh - Food Prices,no
+bfd82e1f-0296-48a8-ac28-c11e028be5ed,dataset,PROD,,,wfp-food-prices-for-burkina-faso,Burkina Faso - Food Prices,no
+e7e5df38-adb6-4843-a053-24e119b27afc,dataset,PROD,,,wfp-food-prices-for-burundi,Burundi - Food Prices,no
+f6ed9f06-36b9-43b2-97f3-fc0b8e16d155,dataset,PROD,,,wfp-food-prices-for-cameroon,Cameroon - Food Prices,no
+e9f27b34-f511-498c-a7f8-fe8d2321f7ba,dataset,PROD,,,wfp-food-prices-for-central-african-republic,Central African Republic - Food Prices,no
+b9e4ffde-205c-4887-beb0-a1fa027e8bdc,dataset,PROD,,,wfp-food-prices-for-djibouti,Djibouti - Food Prices,no
+230e991f-3438-4763-8044-e424b5a67bec,dataset,PROD,,,wfp-food-prices-for-egypt,Egypt - Food Prices,no
+2e4f1922-e446-4b57-a98a-d0e2d5e34afa,dataset,PROD,,,wfp-food-prices-for-ethiopia,Ethiopia - Food Prices,no
+17a0a124-bedd-427c-a710-0d6e87672891,dataset,PROD,,,wfp-food-prices-for-guinea,Guinea - Food Prices,no
+6df76343-1bd9-488a-af3c-1e5aec3fc78c,dataset,PROD,,,wfp-food-prices-for-iran-islamic-republic-of,Iran (Islamic Republic of) - Food Prices,no
+7d8955eb-37d2-4087-80e9-cae1aaa242f5,dataset,PROD,,,wfp-food-prices-for-iraq,Iraq - Food Prices,no
+e0d3fba6-f9a2-45d7-b949-140c455197ff,dataset,PROD,,,wfp-food-prices-for-kenya,Kenya - Food Prices,no
+5e8246e9-e0b9-4b80-b5b7-f97c4409dcf9,dataset,PROD,,,wfp-food-prices-for-kyrgyzstan,Kyrgyzstan - Food Prices,no
+dc632a15-d376-496f-976f-c3282e67bc28,dataset,PROD,,,wfp-food-prices-for-libya,Libya - Food Prices,no
+75ecb747-717e-4ce5-b7af-0e13cc95ba63,dataset,PROD,,,wfp-food-prices-for-malawi,Malawi - Food Prices,no
+4d052db4-0fb8-47b5-a56a-633fdcf0e55c,dataset,PROD,,,wfp-food-prices-for-myanmar,Myanmar - Food Prices,no
+9c2f8da3-c0a5-476d-9035-b9b59172b922,dataset,PROD,,,wfp-food-prices-for-niger,Niger - Food Prices,no
+125455ff-c8a8-4f4b-9190-bf0e84559dc7,dataset,PROD,,,wfp-food-prices-for-pakistan,Pakistan - Food Prices,no
+ea251823-8694-47b4-82d0-7d27f00e8aba,dataset,PROD,,,wfp-food-prices-for-philippines,Philippines - Food Prices,no
+a4a84c1c-81d1-491b-9fbe-1955ae736508,dataset,PROD,,,wfp-food-prices-for-rwanda,Rwanda - Food Prices,no
+26727d1b-af49-4323-9215-c2ac479abb87,dataset,PROD,,,wfp-food-prices-for-somalia,Somalia - Food Prices,no
+4f48c45b-1a20-4478-b62d-bf637b8d4666,dataset,PROD,,,wfp-food-prices-for-south-sudan,South Sudan - Food Prices,no
+0298c598-d312-4771-b564-f4ac4d831f05,dataset,PROD,,,wfp-food-prices-for-sri-lanka,Sri Lanka - Food Prices,no
+369e003b-f0af-4e48-99d7-34fc85b44635,dataset,PROD,,,wfp-food-prices-for-sudan,Sudan - Food Prices,no
+aa40b3a8-2bc4-4826-9d82-82189bc5f392,dataset,PROD,,,wfp-food-prices-for-syrian-arab-republic,Syrian Arab Republic - Food Prices,no
+ea67b5df-7163-45ff-8306-b901e6b0cc2a,dataset,PROD,,,wfp-food-prices-for-tajikistan,Tajikistan - Food Prices,no
+59420553-73fb-4d44-82f1-96bf97ad8c6e,dataset,PROD,,,wfp-food-prices-for-timor-leste,Timor-Leste - Food Prices,no
+883929b1-521e-4834-97f5-0ccc2df75b89,dataset,PROD,,,wfp-food-prices-for-uganda,Uganda - Food Prices,no
+5090d858-a300-49fe-a953-4ec4e3526fc2,dataset,PROD,,,wfp-food-prices-for-united-republic-of-tanzania,United Republic of Tanzania - Food Prices,no
+98574e10-6866-4f13-a2b1-3c8312801af5,dataset,PROD,,,wfp-food-prices-for-yemen,Yemen - Food Prices,no
+3f74001c-3554-4c54-bd86-c66208563316,dataset,PROD,,,wfp-food-prices-for-zambia,Zambia - Food Prices,no
+e6ff12e6-0670-4a0e-af9f-3750688e6c8d,dataset,PROD,,,wfp-food-prices-for-cote-d-ivoire,Côte d'Ivoire - Food Prices,no
+7f7739a8-a1f5-40cc-bc45-c9483f807eca,dataset,PROD,,,wfp-food-prices-for-lao-people-s-democratic-republic,Lao People's Democratic Republic - Food Prices,no
+7c50ddcd-3ed2-4a9f-a41f-cacc6c07feb5,dataset,PROD,,,burundi-displacement-data-emergency-event-tracking-iom-dtm,Burundi Displacement Data - Emergency Event Tracking [IOM DTM],no
+682c3db6-e253-430f-a3f3-305ef079e2de,dataset,PROD,,,chad-operational-presence,Chad: Operational Presence,no
+f09205c1-7102-407d-96bc-608b8803cd91,dataset,PROD,,,population-au-tchad-et-total-idps-retournes-refugies-sadd,"Chad - Number of Internally Displaced Persons, Refugees and Returnees",no
+50562108-9a07-42bc-964e-de17a263a153,dataset,PROD,,,colombia-4ws,"Colombia: Who does What, Where, and When (4W)",no
+d5bd5d9c-d77c-4c1e-ad71-3c81c9b82ebd,dataset,PROD,,,eie_keyfigures_since2021,Education in Emergencies (EiE) Key Figures,no
+26645af7-d51e-410a-aa64-0353f7421d10,dataset,PROD,,,mozambique-mpi,Mozambique Multi Dimensional Poverty Index,no
+8a7cb6f6-bcf9-4cdc-8e2a-4f2d1e378cba,dataset,PROD,,,yemen-areas-of-control,Yemen: Areas of control,no
+31579af5-3895-4002-9ee3-c50857480785,dataset,PROD,,,global-wfp-food-prices,Global - Food Prices,no
+d0f046b5-cf76-4efc-a141-920d6f4cc9d5,dataset,PROD,,,refugees-by-admin-2-in-niger,Niger: Refugees Figures,no
+c20cca2d-9762-4604-a452-4e45588f3cae,dataset,PROD,,,afghanistan-acled-conflict-data,Afghanistan - Conflict Events,no
+697d684e-54b7-4432-80a6-2cbc38da0f03,dataset,PROD,,,burkina-faso-acled-conflict-data,Burkina Faso - Conflict Events,no
+e1df3a45-5052-4ef0-bc68-12d887286d35,dataset,PROD,,,cameroon-acled-conflict-data,Cameroon - Conflict Events,no
+cec1df15-bf46-40ec-85f7-d7c47be809a8,dataset,PROD,,,central-african-republic-acled-conflict-data,Central African Republic - Conflict Events,no
+b009f9b0-aa65-49c5-b188-a33daade0f4a,dataset,PROD,,,chad-acled-conflict-data,Chad - Conflict Events,no
+4f37343a-82ac-49f8-b4a8-3dc3e067a6cb,dataset,PROD,,,colombia-acled-conflict-data,Colombia - Conflict Events,no
+7799c7cf-6228-47cf-977c-5feab6a5f04e,dataset,PROD,,,democratic-republic-of-congo-acled-conflict-data,Democratic Republic of Congo - Conflict Events,no
+404db832-8ebd-477a-af15-78071728f070,dataset,PROD,,,ethiopia-acled-conflict-data,Ethiopia - Conflict Events,no
+f5d6a275-1b87-4bc2-bae3-861486cc6245,dataset,PROD,,,haiti-acled-conflict-data,Haiti - Conflict Events,no
+30806e5d-18ea-43ff-ba0c-2c897cc5662b,dataset,PROD,,,mali-acled-conflict-data,Mali - Conflict Events,no
+a58b1b59-47ab-45ca-b23f-268b75c9b83c,dataset,PROD,,,mozambique-acled-conflict-data,Mozambique - Conflict Events,no
+1dbe32d3-4432-4ff4-9192-dc310663428b,dataset,PROD,,,myanmar-acled-conflict-data,Myanmar - Conflict Events,no
+8d2bb402-bd76-489e-948c-02564b8cffab,dataset,PROD,,,niger-acled-conflict-data,Niger - Conflict Events,no
+a58fc2b9-3079-47f9-9755-47e7a1f77d19,dataset,PROD,,,nigeria-acled-conflict-data,Nigeria - Conflict Events,no
+a01fb41d-b89c-4de0-abbd-b5046695d448,dataset,PROD,,,palestine-acled-conflict-data,Palestine - Conflict Events,no
+18c48562-cf40-4c27-a4aa-9b19ff5cb621,dataset,PROD,,,somalia-acled-conflict-data,Somalia - Conflict Events,no
+2f85df58-ab46-49dd-9253-d1d77aec687a,dataset,PROD,,,south-sudan-acled-conflict-data,South Sudan - Conflict Events,no
+5efad450-8b15-4867-b7b3-8a25b455eed8,dataset,PROD,,,sudan-acled-conflict-data,Sudan - Conflict Events,no
+9d37a9b1-3df5-4bb5-afa8-a22d2ea0e27a,dataset,PROD,,,syria-acled-conflict-data,Syria - Conflict Events,no
+7b36830b-c033-4a06-b812-9940baec603b,dataset,PROD,,,ukraine-acled-conflict-data,Ukraine - Conflict Events,no
+474314ab-c5e6-4660-8bb9-2bf121776b0c,dataset,PROD,,,venezuela-acled-conflict-data,Venezuela - Conflict Events,no
+423a7d11-cc86-4226-8a77-4bbbc51371c4,dataset,PROD,,,yemen-acled-conflict-data,Yemen - Conflict Events,no
+e9942071-bf80-4216-9175-044720b82e6f,dataset,PROD,,,fao-diem-monitoring-system-household-surveys-aggregated-data,FAO Data in Emergencies Monitoring System (DIEM),no
+7d7224ed-eff6-421f-9f96-9c8d43905f3c,dataset,PROD,,,wfp-food-prices-for-turkiye,Türkiye - Food Prices,no
+03c28d49-abab-453e-84e2-fd4f1cfa1597,dataset,PROD,,,wfp-food-prices-for-republic-of-moldova,Republic of Moldova - Food Prices,no
+67d69410-1f2f-43eb-a522-1fe9633828ea,dataset,PROD,,,impact-of-cyclones,Mozambique: Impact of Cyclones,no
+f2de4216-71fd-47cb-9c64-b5699055431a,dataset,PROD,,,bfa-ndvi-subnational,Burkina Faso: NDVI at Subnational Level,no
+ee6b03e9-85e3-45e2-921f-231970a3b300,dataset,PROD,,,mwi-ndvi-subnational,Malawi: NDVI at Subnational Level,no
+61e24978-04cd-42fe-8c96-075e98bb7680,dataset,PROD,,,mli-ndvi-subnational,Mali: NDVI at Subnational Level,no
+f7956713-9cce-4784-a1b9-bca5a60f4729,dataset,PROD,,,eth-ndvi-subnational,Ethiopia: NDVI at Subnational Level,no
+2355f1a5-1a54-4360-9647-3427f3649f6d,dataset,PROD,,,tcd-ndvi-subnational,Chad: NDVI at Subnational Level,no
+7907439a-0138-4b8e-a4cf-4f0233e0d694,dataset,PROD,,,yem-ndvi-subnational,Yemen: NDVI at Subnational Level,no
+19375eb9-c931-4ced-bf64-950f8025b7a0,dataset,PROD,,,caf-ndvi-subnational,Central African Republic: NDVI at Subnational Level,no
+841f6fa9-7ba3-4e79-a335-db9e2608f8c3,dataset,PROD,,,moz-ndvi-subnational,Mozambique: NDVI at Subnational Level,no
+139b7e9c-3c40-49e0-a44e-0eed6dad46d2,dataset,PROD,,,sdn-rainfall-subnational,Sudan: Rainfall Indicators at Subnational Level,no
+ed6e1b4b-8094-47e6-bdf7-f6d56fa7abb9,dataset,PROD,,,som-rainfall-subnational,Somalia: Rainfall Indicators at Subnational Level,no
+18e58b86-2929-4901-b83f-4b0872c1c465,dataset,PROD,,,mdg-ndvi-subnational,Madagascar: NDVI at Subnational Level,no
+5071416d-e656-4af3-8179-057332e968f5,dataset,PROD,,,ssd-ndvi-subnational,South Sudan: NDVI at Subnational Level,no
+18589fad-1821-482f-8c75-145387b2e00a,dataset,PROD,,,cmr-rainfall-subnational,Cameroon: Rainfall Indicators at Subnational Level,no
+f2598b5c-b309-4c50-bc50-1ff7538b4689,dataset,PROD,,,cod-rainfall-subnational,Democratic Republic of the Congo: Rainfall Indicators at Subnational Level,no
+44da9888-81dc-4b9a-b0d9-1d4c2e515318,dataset,PROD,,,mli-rainfall-subnational,Mali: Rainfall Indicators at Subnational Level,no
+1caecd73-7e80-49ae-bbf4-cb068fa6f199,dataset,PROD,,,tcd-rainfall-subnational,Chad: Rainfall Indicators at Subnational Level,no
+f1e50c5b-304e-4e42-862b-cdc3d9016014,dataset,PROD,,,som-ndvi-subnational,Somalia: NDVI at Subnational Level,no
+26f9206c-5768-47ef-9cfa-bb9991b47d97,dataset,PROD,,,mdg-rainfall-subnational,Madagascar: Rainfall Indicators at Subnational Level,no
+bd75b57a-96c9-4a06-a52e-e8c280e3b076,dataset,PROD,,,sdn-ndvi-subnational,Sudan: NDVI at Subnational Level,no
+7fd33ae6-57ad-4459-93ea-80033e3aebc5,dataset,PROD,,,ner-rainfall-subnational,Niger: Rainfall Indicators at Subnational Level,no
+dc9bdc85-9982-46c8-80cc-918db6d5320a,dataset,PROD,,,caf-rainfall-subnational,Central African Republic: Rainfall Indicators at Subnational Level,no
+7ba59686-437a-4b5f-b387-c446aae335b4,dataset,PROD,,,mwi-rainfall-subnational,Malawi: Rainfall Indicators at Subnational Level,no
+902bd76c-3f3c-42ad-8547-f9c31deb7937,dataset,PROD,,,yem-rainfall-subnational,Yemen: Rainfall Indicators at Subnational Level,no
+1d9b5601-dde5-4ef0-b1d3-ef627417e425,dataset,PROD,,,nga-ndvi-subnational,Nigeria: NDVI at Subnational Level,no
+508745d1-be70-462c-bd80-4809a48ad675,dataset,PROD,,,colombia-desastres-naturales,Colombia: Desastres Naturales,no
+6d32f918-175a-4b05-83aa-867ec0a2cba9,dataset,PROD,,,syria-humanitarian-access-severity,Syrian Arab Republic: Humanitarian Access,no
+641a9118-4488-49e7-a0c6-efe9dc567987,dataset,PROD,,,moz-rainfall-subnational,Mozambique: Rainfall Indicators at Subnational Level,no
+cb963915-d7d1-4ffa-90dc-31277e24406f,dataset,PROD,,,global-pcodes,Global P-Code List,no
+839ce6d5-f863-47b6-9c49-da28661e4e44,dataset,PROD,,,ukraine-displacement-data-returnees-iom-dtm,Ukraine Displacement Data - Returnees [IOM DTM],no
+f3187152-affc-4454-bbc5-de2aa2e6f906,dataset,PROD,,,acceso-humanitario-colombia,Colombia: Acceso Humanitario,no
+3cce0af3-bb8a-488b-985a-5f76f9da9913,dataset,PROD,,,colombia-retornados-por-desplazamiento,Colombia Retornados por Desplazamiento,no
+ccb9dfdf-b432-4d50-bd19-ac5616a0447b,dataset,PROD,,,desplazamientos-colombia,Colombia: Desplazamientos,no
+edcfb0f2-8241-4429-8895-7a87bccdbdba,dataset,PROD,,,haiti-humanitarian-access-severity,Haiti  - Humanitarian Access Severity,no
+83018a6e-87ce-4af0-bc58-0f614f87dd55,dataset,PROD,,,ken-rainfall-subnational,Kenya: Rainfall Indicators at Subnational Level,no
+acc482ab-7ef8-4135-aa20-e75e110ebf9e,dataset,PROD,,,uganda-displacement-data-multi-hazard-response-drr-platform-iom-dtm,Uganda Displacement Data - Multi-Hazard Response/DRR Platform [IOM DTM],no
+3554c498-660a-45cb-ada5-86a1fbcd6056,dataset,PROD,,,drc-displacement-idps-returnees-m23-crisis-north-kivu-province-baseline-assessment-iom-dtm,DRC Displacement - [IDPs/Returnees] - NORTH & SOUTH KIVU / Rapid Displacement Analysis (EET) - (IOM DTM),no
+63ddbde6-f38c-454e-beeb-73e05cc421d0,dataset,PROD,,,dos-aircraftsbymission,Peace and Security Pillar: Monthly Mission Air Assets,no
+e2a335c6-c7e6-486f-82fa-28875aee686e,dataset,PROD,,,dpo-jcs-gpp,Peace and Security Pillar: Government-Provided Justice and Corrections Personnel,no
+469fbe3d-3a49-4189-8a60-2b95624536fc,dataset,PROD,,,dpo-uhistoricalpol,Peace and Security Pillar: Police Personnel in Missions,no
+be840f10-9a23-4160-870d-400fc60eb12c,dataset,PROD,,,dppa-msulop,Peace and Security Pillar: Language of Peace,no
+20984e5f-9a09-469b-b10a-5508be6ba4e3,dataset,PROD,,,dppa-scwps,Peace and Security Pillar: Security Council Data - Women Peace and Security in Security Council Decisions,no
+70e5c9fa-d844-4f0e-9ac7-a2afc4fea4e0,dataset,PROD,,,dpo-qip,Peace and Security Pillar: Quick Impact Projects,no
+5e79713a-5bc8-41de-b24d-1777cd6e3500,dataset,PROD,,,dpo-cpas,Peace and Security Pillar: Comprehensive Planning and Performance Assessment System (CPAS) Usage Statistics,no
+3b4368e1-a9b9-4add-8701-6b167f6a30bd,dataset,PROD,,,afghanistan-natural-disaster-incidents-in-2024,Afghanistan - Natural Disaster Incidents in 2024,no
+fe54e150-ceeb-438f-af70-3db4c43db5fc,dataset,PROD,,,people-in-need-housing-land-and-property-area-of-responsibility,"Needs and Response Plan – Housing, Land and Property Area of Responsibility",no
+aa3abdba-f849-428d-a2e9-04d1c2e66a3d,dataset,PROD,,,state-of-palestine-education-indicators,State of Palestine: Education Indicators,no
+497b8b27-fa28-409b-8536-7cdf3da0d742,dataset,PROD,,,irc-ethiopia-sub-grantee-projects-by-sectors-and-donors,Ethiopia: IRC Ethiopia Sub Grantee Projects by Sectors and Donors June 2024 Updates,no
+1b176072-4e6c-45f7-aee0-13f7c730e856,dataset,PROD,,,cps-decisions,"Peace and Security Pillar: Security Council Data - Climate, Peace and Security in Security Council Decisions",no
+a6551efc-3cd2-43f5-ab76-b622fa60ac5c,dataset,PROD,,,philippines-common-operational-datasets-population-statistics,Philippines - Population Statistics (COD-PS),no
+1fc4727d-a45e-4398-96a5-5e7c58b58ba1,dataset,PROD,,,facebook-business-activity-trends-during-crisis,Facebook Business Activity Trends during Crisis,no
+183f4d26-71fa-4246-af2e-bf6d550df74b,dataset,PROD,,,eie-funding-since-2021,Education in Emergencies (EiE) Funding,no
+00ae3b62-9174-4c7e-9899-51ce611c0b74,dataset,PROD,,,nrc-frontline-hromada-buffer-analysis,Ukraine: NRC Frontline Hromada Buffer Analysis,no
+81b9ae00-ddcc-4bf4-bc3b-d639024b7cf5,dataset,PROD,,,northeast-and-northwest-nigeria-acute-malnutrition,Northeast and Northwest Nigeria : Acute Malnutrition,no
+4a172609-99b4-47fe-ae80-91b8cf3625cd,dataset,PROD,,,solidarity-with-south-sudan,South Sudan: Trained Nurses and Midwives Employment,no
+dbe2b285-2665-4b37-99f7-da321e4358d2,dataset,PROD,,,yemen-flood-preparedness-and-response,Yemen: Flood Preparedness and Response,no
+9d23e71e-2e89-4b49-8116-298cd5841fdc,dataset,PROD,,,acaps_syria_core_dataset,Syria: Core Dataset,no
+e0729389-06d0-48b1-957b-a22168e85ee2,dataset,PROD,,,lbn-iom-dtm-from-api,Lebanon IOM Displacement Tracking Matrix (DTM) from API,no
+0cd7f533-37cd-4b54-a7ba-994e7b36d272,dataset,PROD,,,sdn-iom-dtm-from-api,Sudan IOM Displacement Tracking Matrix (DTM) from API,no
+177644a3-11eb-4ca7-90a6-dfdaa3bc588a,dataset,PROD,,,global-organisations,Global Organisations,no
+8b99ca18-1e41-4e93-93c9-a19e0274bea8,dataset,PROD,,,global-operational-presence,Global Operational Presence,no
+b704f489-6705-499a-b5f0-22eeb1184b0b,dataset,PROD,,,floodscan,FloodScan: Near Real-Time and Historical Flood Mapping,no
+d744d00e-9c8c-4207-b377-9f270ee0919b,dataset,PROD,,,afghanistan-voluntary-repatriation-2025,Afghanistan: Voluntary Repatriation,no
+21e997e2-81a9-4425-be59-3436641c55d1,dataset,PROD,,,igad-region-dekadal-combined-drought-indicator-cdi-2025,IGAD Region - Dekadal Combined Drought Indicator (CDI) 2025,no
+8bc0ebb6-6b9d-4f45-8455-80bc22db039e,dataset,PROD,,,igad-region-monthly-combined-drought-indicator-cdi-2025,IGAD Region - Monthly Combined Drought Indicator (CDI) 2025,no
+00503498-e97e-4e13-b920-524a1ce567a7,dataset,PROD,,,dppadpo-civilianstaff,Peace and Security Pillar: Civilian Staff in the Peace and Security Pillar,no
+823db0f4-5d6b-4ed5-9c23-6584d1868df1,dataset,PROD,,,iati-bes,"Bonaire, Sint Eustatius and Saba - Current IATI Aid Activities",no
+be09b1a5-e457-448f-8d2d-63b0debc1742,dataset,PROD,,,somalia-operational-presence,Somalia: Operational Presence,yes
+49f93973-5f8e-4a89-9bbb-43db497c7255,dataset,PROD,,,drc_presence_operationnelle,République Démocratique du Congo : Présence Opérationnelle,yes
+4aef067d-0761-4977-9020-e83d8f6908a4,dataset,PROD,,,afghanistan-operational-presence,Afghanistan - Operational Presence,yes
+531fe931-4b87-43e9-ae4c-a3e25a2bd388,dataset,PROD,,,south-sudan-operational-presence,South Sudan: Operational Presence,yes
+56be74a0-4306-441e-97d8-8fb75aa645b2,dataset,PROD,,,ukraine-who-does-what-where-3w,"Ukraine: Who Does What, Where (3W/5W)",yes
+bd51d0d8-c4af-4e5d-b438-6d4f3c9bd702,dataset,PROD,,,ethiopia-operational-presence,Ethiopia: Operational Presence,yes
+bdccda24-2122-416c-aed1-6bdebcfea76c,dataset,PROD,,,sudan-operational-presence,Sudan: Operational Presence,yes
+be09b1a5-e457-448f-8d2d-63b0debc1742,dataset,PROD,,,somalia-operational-presence,Somalia: Operational Presence,yes
+bfedda6e-4902-4cd8-9b05-410d00e70660,dataset,PROD,,,east-africa-chirps-seasonal-rainfall-accumulation-anomaly-by-pentad,East Africa - CHIRPS Seasonal Rainfall Accumulation Anomaly by Pentad,yes
+d7ab89e4-bcb2-4127-be3c-5e8cf804ffd3,dataset,PROD,,,mali-operational-presence,Mali: Operational Presence,yes
+f12c48ac-fff7-4d3f-99dd-08e14f1b08fc,dataset,PROD,,,niger-operational-presence,Niger: Operational Presence,yes
